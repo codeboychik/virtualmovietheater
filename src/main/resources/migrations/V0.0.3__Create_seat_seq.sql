@@ -1,0 +1,1 @@
+CREATE SEQUENCE seat_seq START 1;

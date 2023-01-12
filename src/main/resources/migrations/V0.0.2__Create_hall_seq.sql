@@ -1,0 +1,1 @@
+CREATE SEQUENCE hall_seq START 1;
